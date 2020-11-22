@@ -1,4 +1,4 @@
-require_relative say_hello 
+require_relative say_hello
 def say_hello
   say_hello('Kent Beck!')
 end
